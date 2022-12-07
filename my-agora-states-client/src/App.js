@@ -49,7 +49,7 @@ function App() {
 
   return (
     <>
-      <h1>My Agora States! S3 배포</h1>
+      <h1>My Agora States! S3 재배포 test</h1>
       <Form addDiscussion={addDiscussion}></Form>
       <Discussions
         discussions={discussions}
